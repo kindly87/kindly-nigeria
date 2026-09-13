@@ -1,0 +1,10 @@
+{
+  "name": "Kindly Nigeria",
+  "short_name": "Kindly",
+  "description": "Everyday help, close to home.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbfaf4",
+  "theme_color": "#244e49",
+  "icons": [{ "src": "kindly-logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

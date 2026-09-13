@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title>Kindly logo</title>
+  <rect width="256" height="256" rx="58" fill="#244e49"/>
+  <!-- A small heart-person K: the selected Kindly concept recreated from the referenced chat. -->
+  <path d="M128 79c-17-26-57-14-57 17 0 33 40 56 57 76 17-20 57-43 57-76 0-31-40-43-57-17Z" fill="#ee7651"/>
+  <circle cx="128" cy="91" r="12" fill="#fffaf4"/>
+  <path d="M128 109v57m0-29 28-21m-28 21-27 23" fill="none" stroke="#fffaf4" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
